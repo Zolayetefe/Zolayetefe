@@ -1,5 +1,5 @@
 # 💫 About Me: Zelalem Tefera Dagnaw
-I am currently studding in Bahir Dar university.
+I am currently studding Information System in Bahir Dar university.
 
 
 # 💻 Tech Stack:
